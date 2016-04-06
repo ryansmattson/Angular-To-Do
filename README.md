@@ -12,7 +12,7 @@ Some of the directives you will use are:
 * ng-repeat
 
 ## Hard Mode
-Have a remove button that removes items once complete.
+Have a remove button that removes single items once complete.
 
 ## Pro Mode
 Add check boxes to items and allow multiple items to be completed at once.
