@@ -7,9 +7,9 @@ Today we'll be building a To Do List with AngularJS. To do lists are a great way
 You should have a single input box and a single button, the button click should add the item in the input box to a list below.
 
 Some of the directives you will use are:
-*ng-click
-*ng-model
-*ng-repeat
+* ng-click
+* ng-model
+* ng-repeat
 
 ## Hard Mode
 Have a remove button that removes items once complete.
