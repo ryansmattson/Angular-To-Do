@@ -22,10 +22,10 @@ angular.module('todoApp').controller('MainController', function($scope) {
 
     // function to remove multiple selected tasks from DOM
     // and $scope.tasks
-    $scope.removeBulk(){
+    $scope.removeBulk = function(){
 
     }
 
-    
+
 
 })
