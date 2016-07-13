@@ -17,7 +17,7 @@ angular.module('todoApp').controller('MainController', function($scope) {
     }
 
     $scope.removeTask = function(taskToBeRemoved) {
-      $scope.tasks.splice(taskToBeRemoved,1);
+      $scope.tasks.splice(taskToBeRemoved, 1);
     }
 
     // function to remove multiple selected tasks from DOM
