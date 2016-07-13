@@ -2,3 +2,9 @@
   text-decoration: line-through;
   color: grey;
 }
+form {
+  margin: 10px;
+}
+.input-group {
+  margin: 2px 0;
+}
